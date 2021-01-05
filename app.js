@@ -1,6 +1,6 @@
 
 const express = require('express');
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 5050;
 const ProductData = require('./src/model/Productdata');
 const AuthorData = require('./src/model/authordata');
 
